@@ -1,11 +1,11 @@
-# Web-based-Inventory-management-system
-Benefits of using this Inventory System
-Quickly add Brands, Categories & Products.
-Quick action to decide which brand and over which category to do business with.
-Manage Orders on the go. Whenever orders are made, inventory is automatically updated to changes made.
-Quick view of the inventory ’stats’.
-View and update orders.
-#How to run this project.
-1.Install xampp
-2.Watch any youtube video to how to run project using xampp
-I HAVE EVEN UPLOADED PROJECT REPORT.
+# Web-based-Inventory-management-system<br>
+Benefits of using this Inventory System<br>
+Quickly add Brands, Categories & Products.<br>
+Quick action to decide which brand and over which category to do business with.<br>
+Manage Orders on the go. Whenever orders are made, inventory is automatically updated to changes made.<br>
+Quick view of the inventory ’stats’.<br>
+View and update orders.<br>
+#How to run this project.<br>
+1.Install xampp<br>
+2.Watch any youtube video to how to run project using xampp,<br>
+I HAVE EVEN UPLOADED PROJECT REPORT.<br>
