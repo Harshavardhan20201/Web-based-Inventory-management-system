@@ -6,6 +6,7 @@ Manage Orders on the go. Whenever orders are made, inventory is automatically up
 Quick view of the inventory ’stats’.<br>
 View and update orders.<br>
 #How to run this project.<br>
+Please unzip the given file.<br>
 1.Install xampp<br>
 2.Watch any youtube video to how to run project using xampp,<br>
 I HAVE EVEN UPLOADED PROJECT REPORT.<br>
